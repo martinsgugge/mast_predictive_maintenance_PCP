@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ConfigFile>
+    <ModelName>LSTM base 30 second Omen exp 6</ModelName>
+    <sequence>1</sequence>
+    <sequence_steps>16</sequence_steps>
+    <pad>1</pad>
+    <train_size>0.7</train_size>
+    <test_size>0.15</test_size>
+    <validation_size>0.15</validation_size>
+    <number_of_epochs>5</number_of_epochs>
+    <batch_size>1</batch_size>
+    <stateful>1</stateful>
+    <neurons_layer_one>12</neurons_layer_one>
+    <neurons_layer_two>6</neurons_layer_two>
+    <layers>2</layers>
+    <aggregation_time>22</aggregation_time>
+    <raw>0</raw>
+    <average>1</average>
+    <standard_deviation>1</standard_deviation>
+    <use_all>1</use_all>
+    <derivatives>1</derivatives>
+
+
+</ConfigFile>

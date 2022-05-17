@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ConfigFile>
+    <table>measurement2</table>
+    <high_table>high_speed_big_reduced</high_table>
+</ConfigFile>

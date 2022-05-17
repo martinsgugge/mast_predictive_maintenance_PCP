@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ConfigFile>
+    <ModelName>SVM exp 5</ModelName>
+    <off_removal>1</off_removal>
+    <top_removal>1</top_removal>
+    <top_removal_limit>0.99</top_removal_limit>
+    <top_removal_list>Current,Torque</top_removal_list>
+    <bottom_removal>0</bottom_removal>
+    <bottom_removal_limit>0.01</bottom_removal_limit>
+    <bottom_removal_list>Speed</bottom_removal_list>
+    <train_size>0.7</train_size>
+    <test_size>0.15</test_size>
+    <validation_size>0.15</validation_size>
+    <C>1</C>
+    <gamma>1</gamma>
+    <coef0>1</coef0>
+    <method>GridSearchCV poly</method>
+    <degree>2</degree>
+    <raw>1</raw>
+    <aggregation_time>22</aggregation_time>
+    <average>1</average>
+    <standard_deviation>1</standard_deviation>
+    <use_all>0</use_all>
+    <derivatives>1</derivatives>
+
+</ConfigFile>

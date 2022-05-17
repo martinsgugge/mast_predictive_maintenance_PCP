@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ConfigFile>
+    <On_off>3542</On_off>
+    <OutletPressure>3541</OutletPressure>
+    <Current>3538</Current>
+    <Torque>3540</Torque>
+    <ControlSignal>3537</ControlSignal>
+    <Speed>3539</Speed>
+    <State>3543</State>
+</ConfigFile>

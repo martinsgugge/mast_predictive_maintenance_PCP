@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ConfigFile>
+    <On_off>HYG_PU12,HYG_PU13,HYG_PU14,HYG_PU15,HYG_PU16,HYG_PU17,HYG_PU18,HYG_PU19</On_off>
+    <OutletPressure>HYG_PT03,HYG_PT05,HYG_PT07,HYG_PT09,HYG_PT11,HYG_PT14,HYG_PT13,HYG_PT16</OutletPressure>
+    <Current>HYG_PU12_PW_PV,HYG_PU13_PW_PV,HYG_PU14_PW_PV,HYG_PU15_PW_PV,HYG_PU16_PW_PV,HYG_PU17_PW_PV,HYG_PU18_PW_PV,HYG_PU19_PW_PV</Current>
+    <Torque>HYG_PU12_TQ_PV,HYG_PU13_TQ_PV,HYG_PU14_TQ_PV,HYG_PU15_TQ_PV,HYG_PU16_TQ_PV,HYG_PU17_TQ_PV,HYG_PU18_TQ_PV,HYG_PU19_TQ_PV</Torque>
+    <ControlSignal>HYG_PU12_MO,HYG_PU13_MO,HYG_PU14_MO,HYG_PU15_MO,HYG_PU16_MO,HYG_PU17_MO,HYG_PU18_MO,HYG_PU19_MO</ControlSignal>
+    <Speed>HYG_PU12_SF_PV,HYG_PU13_SF_PV,HYG_PU14_SF_PV,HYG_PU15_SF_PV,HYG_PU16_SF_PV,HYG_PU17_SF_PV,HYG_PU18_SF_PV,HYG_PU19_SF_PV</Speed>
+    <State>HYG_PU12_State,HYG_PU13_State,HYG_PU14_State,HYG_PU15_State,HYG_PU16_State,HYG_PU17_State,HYG_PU18_State,HYG_PU19_State</State>
+    <OutletPressureAvg>HYG_PT03avg,HYG_PT05avg,HYG_PT07avg,HYG_PT09avg,HYG_PT11avg,HYG_PT14avg,HYG_PT13avg,HYG_PT16avg</OutletPressureAvg>
+    <CurrentAvg>HYG_PU12_PW_PVavg,HYG_PU13_PW_PVavg,HYG_PU14_PW_PVavg,HYG_PU15_PW_PVavg,HYG_PU16_PW_PVavg,HYG_PU17_PW_PVavg,HYG_PU18_PW_PVavg,HYG_PU19_PW_PVavg</CurrentAvg>
+    <TorqueAvg>HYG_PU12_TQ_PVavg,HYG_PU13_TQ_PVavg,HYG_PU14_TQ_PVavg,HYG_PU15_TQ_PVavg,HYG_PU16_TQ_PVavg,HYG_PU17_TQ_PVavg,HYG_PU18_TQ_PVavg,HYG_PU19_TQ_PVavg</TorqueAvg>
+    <ControlSignalAvg>HYG_PU12_MOavg,HYG_PU13_MOavg,HYG_PU14_MOavg,HYG_PU15_MOavg,HYG_PU16_MOavg,HYG_PU17_MOavg,HYG_PU18_MOavg,HYG_PU19_MOavg</ControlSignalAvg>
+    <SpeedAvg>HYG_PU12_SF_PVavg,HYG_PU13_SF_PVavg,HYG_PU14_SF_PVavg,HYG_PU15_SF_PVavg,HYG_PU16_SF_PVavg,HYG_PU17_SF_PVavg,HYG_PU18_SF_PVavg,HYG_PU19_SF_PVavg</SpeedAvg>
+    <OutletPressureStd>HYG_PT03stddev_samp,HYG_PT05stddev_samp,HYG_PT07stddev_samp,HYG_PT09stddev_samp,HYG_PT11stddev_samp,HYG_PT14stddev_samp,HYG_PT13stddev_samp,HYG_PT16stddev_samp</OutletPressureStd>
+    <CurrentStd>HYG_PU12_PW_PVstddev_samp,HYG_PU13_PW_PVstddev_samp,HYG_PU14_PW_PVstddev_samp,HYG_PU15_PW_PVstddev_samp,HYG_PU16_PW_PVstddev_samp,HYG_PU17_PW_PVstddev_samp,HYG_PU18_PW_PVstddev_samp,HYG_PU19_PW_PVstddev_samp</CurrentStd>
+    <TorqueStd>HYG_PU12_TQ_PVstddev_samp,HYG_PU13_TQ_PVstddev_samp,HYG_PU14_TQ_PVstddev_samp,HYG_PU15_TQ_PVstddev_samp,HYG_PU16_TQ_PVstddev_samp,HYG_PU17_TQ_PVstddev_samp,HYG_PU18_TQ_PVstddev_samp,HYG_PU19_TQ_PVstddev_samp</TorqueStd>
+    <ControlSignalStd>HYG_PU12_MOstddev_samp,HYG_PU13_MOstddev_samp,HYG_PU14_MOstddev_samp,HYG_PU15_MOstddev_samp,HYG_PU16_MOstddev_samp,HYG_PU17_MOstddev_samp,HYG_PU18_MOstddev_samp,HYG_PU19_MOstddev_samp</ControlSignalStd>
+    <SpeedStd>HYG_PU12_SF_PVstddev_samp,HYG_PU13_SF_PVstddev_samp,HYG_PU14_SF_PVstddev_samp,HYG_PU15_SF_PVstddev_samp,HYG_PU16_SF_PVstddev_samp,HYG_PU17_SF_PVstddev_samp,HYG_PU18_SF_PVstddev_samp,HYG_PU19_SF_PVstddev_samp</SpeedStd>
+</ConfigFile>

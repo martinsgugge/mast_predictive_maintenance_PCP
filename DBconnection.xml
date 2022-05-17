@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ConfigFile>
+    <DBInfo>
+        <database></database>
+        <host></host>
+        <user></user>
+        <pw></pw>
+    </DBInfo>
+</ConfigFile>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ConfigFile>
+    <ModelName>GRU base 30 second exp 15</ModelName>
+    <sequence>1</sequence>
+    <sequence_steps>120</sequence_steps>
+    <pad>1</pad>
+    <train_size>0.7</train_size>
+    <test_size>0.15</test_size>
+    <validation_size>0.15</validation_size>
+    <number_of_epochs>5</number_of_epochs>
+    <batch_size>64</batch_size>
+    <stateful>0</stateful>
+    <neurons_layer_one>32</neurons_layer_one>
+    <neurons_layer_two>32</neurons_layer_two>
+    <neurons_layer_three>16</neurons_layer_three>
+    <layers>3</layers>
+    <aggregation_time>22</aggregation_time>
+    <raw>1</raw>
+    <average>1</average>
+    <standard_deviation>1</standard_deviation>
+    <use_all>0</use_all>
+    <derivatives>0</derivatives>
+    <skip_pump_type_1>0</skip_pump_type_1>
+    <skip_pump_type_2>0</skip_pump_type_2>
+
+</ConfigFile>
